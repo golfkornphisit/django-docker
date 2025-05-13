@@ -1,0 +1,6 @@
+README.md
+frontend/node_modules/
+.env
+env
+.gitignore
+docker-compose.yml
